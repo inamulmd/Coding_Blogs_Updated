@@ -38,13 +38,6 @@ This project helped me understand:
 ---
 
 ### 🔗 Live Demo
-[Click here to view](your-netlify-or-vercel-link)
-
-### 📂 Setup Instructions
-```bash
-git clone your-repo-url
-cd repo-folder
-npm install
-npm start
+[Click here to view](https://whimsical-trifle-b01941.netlify.app/)
 
 
