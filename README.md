@@ -1,12 +1,50 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📰 Coding Blog Website 🧠
 
-Currently, two official plugins are available:
+A clean and responsive blog site built with React and Tailwind CSS.  
+It fetches blogs using context API and supports categories, tags, pagination, and single blog view.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Home Page
+- Blog Detail View
+- Category-wise filtering
+- Tag-wise filtering
+- Pagination
+- Context API for global state management
+- Dynamic Routing with React Router
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- React
+- Tailwind CSS
+- React Router DOM
+- Context API
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+(Add screenshots of the UI here)
+
+## 🧠 Learning Outcome
+This project helped me understand:
+- React Router's dynamic routing
+- URL params and query strings
+- Pagination logic
+- Tailwind utility-first CSS design
+
+## 💡 Future Additions
+- Dark Mode 🌙
+- Search functionality 🔍
+- Admin panel to add/edit blogs ✍️
+
+---
+
+### 🔗 Live Demo
+[Click here to view](your-netlify-or-vercel-link)
+
+### 📂 Setup Instructions
+```bash
+git clone your-repo-url
+cd repo-folder
+npm install
+npm start
+
+
